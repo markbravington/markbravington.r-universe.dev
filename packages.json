@@ -1,6 +1,42 @@
 [
     {
+        "package": "atease",
+        "url": "https://github.com/markbravington/atease.git"
+    },
+    {
+        "package": "debug",
+        "url": "https://github.com/markbravington/debug.git"
+    },
+    {
+        "package": "deconvodisc",
+        "url": "https://github.com/markbravington/deconvodisc.git"
+    },
+    {
+        "package": "despack",
+        "url": "https://github.com/markbravington/despack.git"
+    },
+    {
+        "package": "microscoping",
+        "url": "https://github.com/markbravington/microscoping.git"
+    },
+    {
         "package": "mvbutils",
         "url": "https://github.com/markbravington/mvbutils.git"
+    },
+    {
+        "package": "nicetime",
+        "url": "https://github.com/markbravington/nicetime.git"
+    },
+    {
+        "package": "offarray",
+        "url": "https://github.com/markbravington/offarray.git"
+    },
+    {
+        "package": "offartmb",
+        "url": "https://github.com/markbravington/offartmb.git"
+    },
+    {
+        "package": "TMBO",
+        "url": "https://github.com/markbravington/TMBO.git"
     }
 ]
