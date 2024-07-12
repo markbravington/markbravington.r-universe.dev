@@ -20,6 +20,10 @@
         "url": "https://github.com/markbravington/microscoping.git"
     },
     {
+        "package": "mvbjoblot",
+        "url": "https://github.com/markbravington/mvbjoblot.git"
+    },
+    {
         "package": "mvbutils",
         "url": "https://github.com/markbravington/mvbutils.git"
     },
