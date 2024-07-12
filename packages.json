@@ -28,10 +28,6 @@
         "url": "https://github.com/markbravington/mvbutils.git"
     },
     {
-        "package": "nicetime",
-        "url": "https://github.com/markbravington/nicetime.git"
-    },
-    {
         "package": "offarray",
         "url": "https://github.com/markbravington/offarray.git"
     },
