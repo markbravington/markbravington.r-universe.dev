@@ -16,6 +16,10 @@
         "url": "https://github.com/markbravington/despack.git"
     },
     {
+        "package": "gasplit",
+        "url": "https://github.com/markbravington/gasplit.git"
+    },
+    {
         "package": "microscoping",
         "url": "https://github.com/markbravington/microscoping.git"
     },
