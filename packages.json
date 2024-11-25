@@ -2,45 +2,61 @@
     {
         "package": "atease",
         "url": "https://github.com/markbravington/atease.git"
-    },
+    }
+    ,
     {
         "package": "debug",
         "url": "https://github.com/markbravington/debug.git"
-    },
+    }
+    ,
     {
         "package": "deconvodisc",
         "url": "https://github.com/markbravington/deconvodisc.git"
-    },
+    }
+    ,
     {
         "package": "despack",
         "url": "https://github.com/markbravington/despack.git"
-    },
+    }
+    ,
     {
         "package": "gasplit",
         "url": "https://github.com/markbravington/gasplit.git"
-    },
+    }
+    ,
+    {
+        "package": "lyxport",
+        "url": "https://github.com/markbravington/lyxport.git"
+    }
+    ,
     {
         "package": "microscoping",
         "url": "https://github.com/markbravington/microscoping.git"
-    },
+    }
+    ,
     {
         "package": "mvbjoblot",
         "url": "https://github.com/markbravington/mvbjoblot.git"
-    },
+    }
+    ,
     {
         "package": "mvbutils",
         "url": "https://github.com/markbravington/mvbutils.git"
-    },
+    }
+    ,
     {
         "package": "offarray",
         "url": "https://github.com/markbravington/offarray.git"
-    },
+    }
+    ,
     {
         "package": "offartmb",
         "url": "https://github.com/markbravington/offartmb.git"
-    },
+    }
+    ,
     {
         "package": "TMBO",
         "url": "https://github.com/markbravington/TMBO.git"
     }
+    
 ]
