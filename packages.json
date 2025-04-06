@@ -58,5 +58,10 @@
         "package": "TMBO",
         "url": "https://github.com/markbravington/TMBO.git"
     }
+    ,
+    {
+        "package": "vecless",
+        "url": "https://github.com/markbravington/vecless.git"
+    }
     
 ]
