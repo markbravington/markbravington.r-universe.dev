@@ -25,6 +25,11 @@
     }
     ,
     {
+        "package": "gbasics",
+        "url": "https://github.com/markbravington/gbasics.git"
+    }
+    ,
+    {
         "package": "lyxport",
         "url": "https://github.com/markbravington/lyxport.git"
     }
