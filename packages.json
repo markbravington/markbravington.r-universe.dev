@@ -30,6 +30,11 @@
     }
     ,
     {
+        "package": "kinference",
+        "url": "https://github.com/markbravington/kinference.git"
+    }
+    ,
+    {
         "package": "lyxport",
         "url": "https://github.com/markbravington/lyxport.git"
     }
