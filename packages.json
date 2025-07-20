@@ -20,6 +20,11 @@
     }
     ,
     {
+        "package": "dumdum",
+        "url": "https://github.com/markbravington/dumdum.git"
+    }
+    ,
+    {
         "package": "gasplit",
         "url": "https://github.com/markbravington/gasplit.git"
     }
