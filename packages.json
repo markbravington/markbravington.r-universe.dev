@@ -55,6 +55,11 @@
     }
     ,
     {
+        "package": "nobcom",
+        "url": "https://github.com/markbravington/nobcom.git"
+    }
+    ,
+    {
         "package": "offarray",
         "url": "https://github.com/markbravington/offarray.git"
     }
