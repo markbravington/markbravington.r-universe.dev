@@ -35,6 +35,11 @@
     }
     ,
     {
+        "package": "kinsimmer2",
+        "url": "https://github.com/markbravington/kinsimmer2.git"
+    }
+    ,
+    {
         "package": "lyxport",
         "url": "https://github.com/markbravington/lyxport.git"
     }
